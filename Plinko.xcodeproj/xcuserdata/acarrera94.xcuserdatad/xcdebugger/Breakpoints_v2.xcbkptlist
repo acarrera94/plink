@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Plinko/main.cpp"
+            timestampString = "466546277.269597"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "333"
+            endingLineNumber = "333"
+            landmarkName = "main1()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Plinko/plinko functions.cp"
+            timestampString = "466668581.144543"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "644"
+            endingLineNumber = "644"
+            landmarkName = "chanceLorR( //left or right function int &amp;pegRows, int &amp;right, int &amp;left, double &amp;peg, double &amp;spot, int &amp;spotmin, int &amp;spotmax, int &amp;leftOrRight )"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Plinko/plinko functions.cp"
+            timestampString = "466668581.144543"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "464"
+            endingLineNumber = "464"
+            landmarkName = "doOption2 ( int&amp; spotmax, int&amp; spotmin, int&amp; pegRows, int&amp; possiblities, int&amp; right, int&amp; left, double&amp; peg, double&amp; spot, int&amp; chips, double&amp; winnings, double&amp; previousWinnings, double&amp; averageWinnings, double&amp; totalWinnings, int&amp; chipsMin, int&amp; chipstart)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Plinko/plinko functions.cp"
+            timestampString = "466668581.144543"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "465"
+            endingLineNumber = "465"
+            landmarkName = "doOption2 ( int&amp; spotmax, int&amp; spotmin, int&amp; pegRows, int&amp; possiblities, int&amp; right, int&amp; left, double&amp; peg, double&amp; spot, int&amp; chips, double&amp; winnings, double&amp; previousWinnings, double&amp; averageWinnings, double&amp; totalWinnings, int&amp; chipsMin, int&amp; chipstart)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Plinko/plinko functions.cp"
+            timestampString = "466668581.144543"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "554"
+            endingLineNumber = "554"
+            landmarkName = "doOption3 ( int&amp; spotmax, int&amp; spotmin, int&amp; pegRows, int&amp; possiblities, int&amp; right, int&amp; left, double&amp; peg, double&amp; spot, int&amp; chips, double&amp; winnings, double&amp; previousWinnings, double&amp;averageWinnings, double&amp; totalWinnings, int&amp; chipsMin, int&amp; chipstart )"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Plinko/plinko functions.cp"
+            timestampString = "466668581.144543"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "572"
+            endingLineNumber = "572"
+            landmarkName = "doOption3 ( int&amp; spotmax, int&amp; spotmin, int&amp; pegRows, int&amp; possiblities, int&amp; right, int&amp; left, double&amp; peg, double&amp; spot, int&amp; chips, double&amp; winnings, double&amp; previousWinnings, double&amp;averageWinnings, double&amp; totalWinnings, int&amp; chipsMin, int&amp; chipstart )"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
